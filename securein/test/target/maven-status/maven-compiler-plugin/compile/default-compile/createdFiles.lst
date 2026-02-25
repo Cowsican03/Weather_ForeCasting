@@ -1,0 +1,4 @@
+com\securin\Repository\WeatherRepository.class
+com\securin\Service\WeatherService.class
+com\securin\test\TestApplication.class
+com\securin\Controller\WeatherController.class
